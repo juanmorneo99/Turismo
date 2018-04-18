@@ -1,6 +1,4 @@
 {
-  "errorCode": 0,
-  "errorString": "ok",
   "hotspots": [
     {
       "anchor": {
@@ -39,6 +37,8 @@
     },
   
   ],
-  "layer": "Turismo20"
+  "layer": "Turismo20",
+  "errorString": "ok", 
+ "errorCode": 0
  
 }
