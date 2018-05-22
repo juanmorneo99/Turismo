@@ -16,6 +16,7 @@
       "text": {
          
         "title": "Universidad Libre"
+        "footnote": "Powered by Layar" 
       }
     },
     {
@@ -33,7 +34,7 @@
        
         "title": "Conjunto Residencial Bonaire"
       }
-    },
+    }
   
   ],
   "layer": "turismovt0u"
