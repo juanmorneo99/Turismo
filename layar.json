@@ -38,6 +38,23 @@
         "footnote": "Powered by Layar"
       }
     }
+     {
+      "anchor": {
+        "geolocation": {
+          "lat": 7.918568,  
+          "lon":  -72.474265
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/juanmorneo99/Turismo/master/IG8_thumg.jpg"
+      },
+      "id": 3, 
+      "text": {
+        "title": "edificio bonaire ",
+        "description": "ubicada en el anillo vial.",
+        "footnote": "Powered by Layar"
+      }
+    }
     ],
   "layer": "HJRturist"
 }
