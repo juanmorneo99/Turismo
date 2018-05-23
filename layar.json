@@ -21,5 +21,22 @@
       }
     }
   ], 
+   {
+      "anchor": {
+        "geolocation": {
+          "lat": 7.904351, 
+          "lon":  -72.498819
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/juanmorneo99/Turismo/master/Escudopngmini_400x400.png"
+      },
+      "id": 2, 
+      "text": {
+        "title": "universidad libre seccional cucuta ",
+        "description": "ubicada en el  bosque.",
+        "footnote": "Powered by Layar"
+      }
+    }
   "layer": "HJRturist"
 }
