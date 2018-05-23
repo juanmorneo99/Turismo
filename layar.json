@@ -19,8 +19,8 @@
         "description": "ubicada en el  bosque.",
         "footnote": "Powered by Layar"
       }
-    }
-  ], 
+    },
+   
    {
       "anchor": {
         "geolocation": {
@@ -29,14 +29,15 @@
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/juanmorneo99/Turismo/master/Escudopngmini_400x400.png"
+        "url": "https://raw.githubusercontent.com/juanmorneo99/Turismo/master/S_764702-MCO25712477905_062017-O.jpg"
       },
       "id": 2, 
       "text": {
-        "title": "universidad libre seccional cucuta ",
-        "description": "ubicada en el  bosque.",
+        "title": "edificio el roble ",
+        "description": "ubicada en ceiba.",
         "footnote": "Powered by Layar"
       }
     }
+    ],
   "layer": "HJRturist"
 }
