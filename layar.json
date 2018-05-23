@@ -1,59 +1,44 @@
 {
-  "errorCode": 0, 
-  "errorString": "ok", 
-  "hotspots": [
-        
-    {
-      "anchor": {
-        "geolocation": {
-          "lat": 7.912235,
-          "lon":  -72.498773
-        }
-      }, 
-      "icon": {
-        "url": "https://raw.githubusercontent.com/juanmorneo99/Turismo/master/Escudopngmini_400x400.png"
-      },
-      "id": 1, 
-      "text": {
-        "title": "universidad libre seccional cucuta ",
-        "description": "ubicada en el  bosque",
-        "footnote": "Powered by Layar"
-      }
-    },
-    {
-      "anchor": {
-        "geolocation": {
-          "lat": 7.904426, 
-          "lon":  -72.498840 
-        }
-      }, 
-      "icon": {
-        "url": "https://raw.githubusercontent.com/juanmorneo99/Turismo/master/S_764702-MCO25712477905_062017-O.jpg"
-      },
-      "id": 2, 
-      "text": {
-        "title": "edificio el roble ",
-        "description": "ubicada en ceiba",
-        "footnote": "Powered by Layar"
-      }
-    }  
-    {
-      "anchor": {
-        "geolocation": {
-          "lat": 7.918593, 
-          "lon":  -72.474260 
-        }
-      }, 
-      "icon": {
-        "url": "https://raw.githubusercontent.com/juanmorneo99/Turismo/master/IG8_thumg.jpg"
-      },
-      "id": 3, 
-      "text": {
-        "title": "Conjunto Bonaire Prados Del Este ",
-        "description": "Donde vive el que es",
-        "footnote": "Powered by Layar"
-      }
-    }  
-    ],
-  "layer": "turismovt0u"
-}
+	  "errorCode": 0, 
+	  "errorString": "ok", 
+	  "hotspots": [
+	        
+	    {
+	      "anchor": {
+	        "geolocation": {
+	          "lat": 7.912235,
+	          "lon":  -72.498773
+	        }
+	      }, 
+	      "icon": {
+	        "url": "https://raw.githubusercontent.com/juanmorneo99/Turismo/master/Escudopngmini_400x400.png"
+	      },
+	      "id": 1, 
+	      "text": {
+	        "title": "universidad libre seccional cucuta ",
+	        "description": "ubicada en el  bosque",
+	        "footnote": "Powered by Layar"
+	      }
+	    },
+	    {
+	      "anchor": {
+	        "geolocation": {
+	          "lat": 7.904426, 
+	          "lon":  -72.498840 
+	        }
+	      }, 
+	      "icon": {
+	        "url": "https://raw.githubusercontent.com/juanmorneo99/Turismo/master/S_764702-MCO25712477905_062017-O.jpg"
+	      },
+	      "id": 2, 
+	      "text": {
+	        "title": "edificio el roble ",
+	        "description": "ubicada en ceiba",
+	        "footnote": "Powered by Layar"
+	      }
+	    }  
+	    ],
+	  "layer": "HJRturist"
+	}
+
+
