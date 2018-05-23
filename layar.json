@@ -6,12 +6,13 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.062188, 
-          "lon": -96.725716
+          "lat": 7.912496,
+          "lon":-72.499015
+
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/GonzaloMG321/layar/master/1.jpg"
+        "url": "https://raw.githubusercontent.com/juanmorneo99/Turismo/master/Escudopngmini_400x400.png"
       },
       "id": 1, 
       "text": {
@@ -23,12 +24,13 @@
   {
       "anchor": {
         "geolocation": {
-          "lat": 17.060663, 
-          "lon": -96.722993
+         "lat":7.9182141,
+          "lon": -72.474955
+
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/GonzaloMG321/layar/master/2.jpg"
+        "url": "https://raw.githubusercontent.com/juanmorneo99/Turismo/master/IG8_thumg.jpg"
       },
       "id": 2, 
       "text": {
@@ -41,12 +43,12 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.066002, 
-          "lon": -96.721690
+          "lat": 0 
+          "lon": 0
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/GonzaloMG321/layar/master/3.jpg"
+        "url": ""
       },
       "id": 3, 
       "text": {
@@ -58,12 +60,12 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.063229,
-          "lon": -96.724257 
+          "lat": 0
+          "lon": 0
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/GonzaloMG321/layar/master/4.png"
+        "url": ""
       },
       "id": 4, 
       "text": {
@@ -75,12 +77,12 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.065947, 
-          "lon": -96.723284
+          "lat": 0
+          "lon": 0
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/GonzaloMG321/layar/master/5.jpg"
+        "url": ""
       },
       "id": 5, 
       "text": {
@@ -92,12 +94,12 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 17.063407, 
-          "lon": -96.726942
+          "lat": 0
+          "lon": 0
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/GonzaloMG321/layar/master/6.jpg"
+        "url": ""
       },
       "id": 6, 
       "text": {
